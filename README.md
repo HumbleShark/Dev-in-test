@@ -1,4 +1,4 @@
-### Ajax Systems, Python developer in test for Application team
+###Python developer in test for Application team
 Бойко Михайло, претендую на позицію Python developer in test (Apps)
 
 Djinni: https://djinni.co/q/6d383ee4ee/
